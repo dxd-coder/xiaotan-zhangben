@@ -1,0 +1,19 @@
+{
+  "name": "我的小摊账本",
+  "short_name": "小摊账本",
+  "description": "三轮车小吃摊的进货、收入、支出记账工作台",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2F4F3E",
+  "theme_color": "#2F4F3E",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
